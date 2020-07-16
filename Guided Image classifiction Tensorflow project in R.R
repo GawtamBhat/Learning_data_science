@@ -51,10 +51,6 @@ trainLabels <- to_categorical(trainY)
 tesLabels <- to_categorical(testY)
 
 
-/Users/gawtambhat/Documents/R Studio/Projects/Image Recognition and Classification
-
-
-
 
 
 
